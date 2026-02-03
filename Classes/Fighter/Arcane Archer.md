@@ -12,6 +12,19 @@ REWORKING CURRENTLY
 
 
 
+### 
+At 1st level
+
+
+### 
+At 3rd level
+
+
+###
+At
+
+Previous Archer
+
 ### Arcane Archer Lore
 
 At 3rd level, you learn magical theory or some of the secrets of nature – typical for practitioners of of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation) or [Druidcraft](http://dnd5e.wikidot.com/spell:druidcraft) cantrip.
