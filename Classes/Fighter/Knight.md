@@ -5,6 +5,9 @@ tags:
 ---
 **_Knights have undergone some basic training due to their military service. Some knights have even inherited the job from their family members. This is why most knights have plate armor. These knights have been taught to be on the frontlines and hold back the masses. This makes them the perfect frontliner in a party. While rare some knights do leave the military, it is rare. Most adventurers who are knights have finished their career or are looking to find a different way to help the country._**
 
+
+CURRENTLY FINISHED ABILITY WISE REQUIRES REVISIONS FOR WORDING
+
 ### War cry
 You scream out a war cry enraging all nearby enemies within 30 feet of you. All enemies must succeed on a DC 10 + your strength modifier + proficiency bonus or they will be given disadvantage when attacking anyone besides you.
 
@@ -32,5 +35,5 @@ At level ten you gain the ability to empower your allies to use defensive maneuv
 ### Power Through
 At level fifteen you unlock the ability to power through once per long rest. Once knocked out you can choose to fight like normal for 1 turn as if you weren't knocked out. After this turn you will go back to your previous state.
 
-### Champion of the People
+### Heart of a Champion
 At level seventeen you gain the ability to crit on 19's as well as 20's
