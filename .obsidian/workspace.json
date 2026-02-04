@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Arcane Archer.md",
+                "file": "Classes/Fighter/Knight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcane Archer"
+              "title": "Knight"
             }
           }
         ],
@@ -200,6 +200,8 @@
   },
   "active": "7805b1235913dfdf",
   "lastOpenFiles": [
+    "Classes/Fighter/Arcane Archer.md",
+    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Knight.md",
     "Classes/Fighter/Battle Master.md",
     "Classes/Fighter/Samurai.md",
@@ -212,12 +214,10 @@
     "Classes/Fighter/Champion.md",
     "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Banneret.md",
-    "Classes/Fighter/Arcane Archer.md",
     "Easy Git Access.lnk",
     "New shortcut.lnk",
     "New Text Document.txt",
     "Spells/Untitled.md",
-    "Classes/Fighter/Fighter.md",
     "Classes/Rework of Classes.md",
     "Spells/Conjure Flames.md",
     "Spells/Magic Lantern.md",

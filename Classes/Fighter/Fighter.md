@@ -1,3 +1,4 @@
+
 **Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face.**
 
 You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class.
@@ -36,7 +37,7 @@ As a fighter, you gain the following class features.
 **Armor:** All armor, shields
 **Weapons:** Simple weapons, martial weapons  
 **Tools:** None  
-**Saving Throws:** Strength or Dexterity (depends on subclass), Constitution
+**Saving Throws:** Strength or Dexterity (depends on archetype), Constitution
 **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival.
 
 ## Fighting Style
