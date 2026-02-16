@@ -3,29 +3,29 @@
 
 You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class.
 
-| **Fighter** |                   |                                                           |
-| :---------: | ----------------- | --------------------------------------------------------- |
-|    Level    | Proficiency Bonus | Features                                                  |
-|      1      | +2                | Fighting Style, Second Wind, Basic Magic Training         |
-|      2      | +2                | Action Surge (x1)                                         |
-|      3      | +2                | Martial Archetype                                         |
-|      4      | +2                | Ability Score Improvement, Martial Versatility (Optional) |
-|      5      | +3                | Extra Action (x1)                                         |
-|      6      | +3                | Ability Score Improvement, Martial Versatility (Optional) |
-|      7      | +3                | Martial Archetype Feature                                 |
-|      8      | +3                | Ability Score Improvement, Martial Versatility (Optional) |
-|      9      | +4                | Indomitable (x1)                                          |
-|     10      | +4                | Martial Archetype Feature                                 |
-|     11      | +4                | Extra Action (x2)                                         |
-|     12      | +4                | Ability Score Improvement, Martial Versatility (Optional) |
-|     13      | +5                | Indomitable (x2)                                          |
-|     14      | +5                | Ability Score Improvement, Martial Versatility (Optional) |
-|     15      | +5                | Martial Archetype Feature                                 |
-|     16      | +5                | Ability Score Improvement, Martial Versatility (Optional) |
-|     17      | +6                | Action Surge (x2), Indomitable (x3)                       |
-|     18      | +6                | Martial Archetype Feature                                 |
-|     19      | +6                | Ability Score Improvement, Martial Versatility (Optional) |
-|     20      | +6                | Extra Action (x3)                                         |
+| **Fighter** |                   |                                                                      |
+| :---------: | ----------------- | -------------------------------------------------------------------- |
+|    Level    | Proficiency Bonus | Features                                                             |
+|      1      | +2                | Fighting Style, Second Wind, Basic Magic Training, Martial Archetype |
+|      2      | +2                | Action Surge (x1)                                                    |
+|      3      | +2                | Martial Versatility (Optional)                                       |
+|      4      | +2                | Ability Score Improvement, Martial Versatility (Optional)            |
+|      5      | +3                | Extra Action (x1)                                                    |
+|      6      | +3                | Ability Score Improvement, Martial Versatility (Optional)            |
+|      7      | +3                | Martial Archetype Feature                                            |
+|      8      | +3                | Ability Score Improvement, Martial Versatility (Optional)            |
+|      9      | +4                | Indomitable (x1)                                                     |
+|     10      | +4                | Martial Archetype Feature                                            |
+|     11      | +4                | Extra Action (x2)                                                    |
+|     12      | +4                | Ability Score Improvement, Martial Versatility (Optional)            |
+|     13      | +5                | Indomitable (x2)                                                     |
+|     14      | +5                | Ability Score Improvement, Martial Versatility (Optional)            |
+|     15      | +5                | Martial Archetype Feature                                            |
+|     16      | +5                | Ability Score Improvement, Martial Versatility (Optional)            |
+|     17      | +6                | Action Surge (x2), Indomitable (x3)                                  |
+|     18      | +6                | Martial Archetype Feature                                            |
+|     19      | +6                | Ability Score Improvement, Martial Versatility (Optional)            |
+|     20      | +6                | Extra Action (x3)                                                    |
 
 ## Class Features
 As a fighter, you gain the following class features.

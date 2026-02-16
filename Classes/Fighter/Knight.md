@@ -6,7 +6,10 @@ tags:
 **_Knights have undergone some basic training due to their military service. Some knights have even inherited the job from their family members. This is why most knights have plate armor. These knights have been taught to be on the frontlines and hold back the masses. This makes them the perfect frontliner in a party. While rare some knights do leave the military, it is rare. Most adventurers who are knights have finished their career or are looking to find a different way to help the country._**
 
 
-CURRENTLY FINISHED ABILITY WISE REQUIRES REVISIONS FOR WORDING
+REWORK THE WORDING OF THE ABILTIES
+
+### Proficiencies
+**Saving Throws:** Strength, Constitution
 
 ### War cry
 You scream out a war cry enraging all nearby enemies within 30 feet of you. All enemies must succeed on a DC 10 + your strength modifier + proficiency bonus or they will be given disadvantage when attacking anyone besides you.
