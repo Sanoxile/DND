@@ -12,7 +12,7 @@ REWORKING CURRENTLY
 
 
 ### Proficiencies
-**Saving Throws:** Dexterity, Constitution (Maybe intelligence)
+**Saving Throws:** Dexterity, Intelligence
 
 ### Arcane Archer Lore
 At 1st level, you learn magical theory or some of the secrets of nature – typical for practitioners of of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation) or [Druidcraft](http://dnd5e.wikidot.com/spell:druidcraft) cantrip.
@@ -35,7 +35,7 @@ At 7th level, you learn how to direct an errant arrow toward a new target. When 
 ### Arrow Swarm
 At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows raining down on all enemies in a 20-foot range from the initial shot. Each enemy within this range will take your bow damage.
 
-You can burn an arcane slot to imbue this arrow swarm with that specific power. Doing so will apply this damage to all enemies within the region. 
+You can burn an arcane slot to imbue this arrow swarm with that specific power. Doing so will apply this damage to all enemies within the region. Unless you use a arrow that 
 
 
 
