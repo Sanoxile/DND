@@ -10,13 +10,13 @@ You must have a Dexterity or Strength score of 13 or higher in order to multicla
 |      2      | +2                | Action Surge (x1)                                                    |
 |      3      | +2                | Martial Versatility (Optional)                                       |
 |      4      | +2                | Ability Score Improvement, Martial Versatility (Optional)            |
-|      5      | +3                | Extra Action (x1)                                                    |
+|      5      | +3                | Extra Attack (x1)                                                    |
 |      6      | +3                | Ability Score Improvement, Martial Versatility (Optional)            |
 |      7      | +3                | Martial Archetype Feature                                            |
 |      8      | +3                | Ability Score Improvement, Martial Versatility (Optional)            |
 |      9      | +4                | Indomitable (x1)                                                     |
 |     10      | +4                | Martial Archetype Feature                                            |
-|     11      | +4                | Extra Action (x2)                                                    |
+|     11      | +4                | Extra Attack (x2)                                                    |
 |     12      | +4                | Ability Score Improvement, Martial Versatility (Optional)            |
 |     13      | +5                | Indomitable (x2)                                                     |
 |     14      | +5                | Ability Score Improvement, Martial Versatility (Optional)            |
@@ -25,7 +25,7 @@ You must have a Dexterity or Strength score of 13 or higher in order to multicla
 |     17      | +6                | Action Surge (x2), Indomitable (x3)                                  |
 |     18      | +6                | Martial Archetype Feature                                            |
 |     19      | +6                | Ability Score Improvement, Martial Versatility (Optional)            |
-|     20      | +6                | Extra Action (x3)                                                    |
+|     20      | +6                | Extra Attack (x3)                                                    |
 
 ## Class Features
 As a fighter, you gain the following class features.
@@ -109,7 +109,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 - Replace a fighting style you know with another fighting style available to fighters.
 - If you know any maneuvers from the Battle Master archetype, you can replace one maneuver you know with a different maneuver.
 
-### Extra Action
+### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
