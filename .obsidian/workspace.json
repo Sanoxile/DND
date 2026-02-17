@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Arcane Archer.md",
+                "file": "Classes/Fighter/Fighter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcane Archer"
+              "title": "Fighter"
             }
           }
         ]
@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "00f6d49b2a473db7",
+  "active": "acaacf435d11c250",
   "lastOpenFiles": [
+    "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Knight.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
-    "Classes/Fighter/Arcane Archer.md",
     "Untitled.base",
     "Untitled 1.canvas",
     "Untitled.canvas",

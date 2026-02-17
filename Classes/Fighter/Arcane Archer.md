@@ -8,7 +8,7 @@ tags:
 
 
 
-REWORKING CURRENTLY
+Rewording required all work it done for this subclass
 
 
 ### Proficiencies

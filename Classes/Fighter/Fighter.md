@@ -37,7 +37,7 @@ As a fighter, you gain the following class features.
 **Armor:** All armor, shields
 **Weapons:** Simple weapons, martial weapons  
 **Tools:** None  
-**Saving Throws:** Strength or Dexterity (depends on archetype), Constitution
+**Saving Throws:** Based on subclass
 **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival.
 
 ## Fighting Style
