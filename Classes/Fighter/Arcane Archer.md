@@ -35,9 +35,9 @@ At 7th level, you learn how to direct an errant arrow toward a new target. When 
 ### Arrow Swarm
 At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows raining down on all enemies in a 20-foot range from the initial shot.
 
-You can burn an arcane slot to imbue this arrow swarm with an arcane shot. Doing so will apply that arcane shots power into all the arrows in the arrow swarm. Anything that is hit will have th
+You can burn an arcane slot to imbue this arrow swarm with an arcane shot. Doing so will apply that arcane shots power into all the arrows in the arrow swarm. Anything that is hit will have that arcane shots power used on it.
 
-Using curving arrow you can cause the arrow swarm to avoid your allies and hit only the enemies with the 20-foot region.
+Using curving arrow you can cause the arrow swarm to avoid your allies and hit only the enemies with the 20-foot region. If you use an arcane slot option that normally 
 
 
 
