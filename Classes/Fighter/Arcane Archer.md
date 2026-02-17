@@ -12,7 +12,7 @@ REWORKING CURRENTLY
 
 
 ### Proficiencies
-**Saving Throws:** Dexterity, Constitution
+**Saving Throws:** Dexterity, Constitution (Maybe intelligence)
 
 ### Arcane Archer Lore
 At 1st level, you learn magical theory or some of the secrets of nature – typical for practitioners of of this elven martial tradition. You choose to gain proficiency in either the Arcana or the Nature skill, and you choose to learn either the [Prestidigitation](http://dnd5e.wikidot.com/spell:prestidigitation) or [Druidcraft](http://dnd5e.wikidot.com/spell:druidcraft) cantrip.
@@ -20,22 +20,26 @@ At 1st level, you learn magical theory or some of the secrets of nature – typi
 ### Arcane Shot
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
-Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits, unless the option doesn’t involve an attack roll. You get two Arcane Slots to start You have two uses of this ability, and you regain all expended uses of it when you finish a long rest.
+Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits, unless the option doesn’t involve an attack roll. You get two Arcane Slots to start, and you regain all expended slots of it when you finish a long rest.
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 
-You gain an additional Arcane Slot when you reach certain levels in this class: 7th, 15th, and 18th level.
+You gain an additional Arcane Slot when you reach certain levels in this class: 7th, 15th, and two at 18th level.
 
 ### Magic Arrow
-At 5th level, you gain the ability to infuse arrows with magic. Whenever you fire a nonmagical arrow from a shortbow or longbow, you can make it magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The magic fades from the arrow immediately after it hits or misses its target.
-
+At 5th level, you gain the ability to create magic arrows. This eliminates the need for arrows as you can just create magical arrows to fire. These arrows are magical and can be used to bypass some resistances and immunities. The magic disperses immediately after it hits or misses its target (except if you use curving arrow).
 
 ### Curving Arrow
 At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
 
+### Arrow Swarm
+At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows
 
-###
-At 10th level, 
+
+
+
+Your enchantment magic causes this arrow to temporarily beguile its target. The creature hit by the arrow takes an extra 2d6 psychic damage, and choose one of your allies within 30 feet of the target. The target must succeed on a Wisdom saving throw, or it is charmed by the chosen ally until the start of your next turn. This effect ends early if the chosen ally attacks the charmed target, deals damage to it, or forces it to make a saving throw.
+
 
 ### Ever-Ready Shot
 Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.

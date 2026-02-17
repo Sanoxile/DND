@@ -29,7 +29,7 @@ At level seven you gain the ability to help people in one of the three ways list
 
 - As a reaction you can choose to defend a teammate. Doing this lets you roll for their saving throw rather than them doing it.
 - As a reaction you can command a teammate (if they want to) to move up to 30-feet.
-- You attempt to block a teammate from taking damage. You can move up to 15-feet and block if with 5-feet of them. If it was an AOE attack they take half damage and you take full 
+- You attempt to block a teammate from taking damage. You can move up to 15-feet and block if with 5-feet of them. If it was an AOE attack they take half damage and you take full.
 
 ### Defensive Empowerment
 At level ten you gain the ability to empower your allies to use defensive maneuvers. Anyone within 30-feet of you will receive +2 to their AC for one round after using action surge.
