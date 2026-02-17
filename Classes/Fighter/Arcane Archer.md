@@ -27,7 +27,7 @@ You gain an additional Arcane Shot option of your choice when you reach certain 
 You gain an additional Arcane Slot when you reach certain levels in this class: 7th, 15th, and two at 18th level.
 
 ### Magic Arrow
-At 5th level, you gain the ability to create magic arrows. This eliminates the need for arrows as you can just create magical arrows to fire. These arrows are magical and can be used to bypass some resistances and immunities. The magic disperses immediately after it hits or misses its target (except if you use curving arrow).
+At 5th level, you gain the ability to create magic arrows. This eliminates the need for arrows as you can just create magical arrows to fire. These arrows are magical and can be used to bypass some resistances and immunities. The magic disperses immediately after it hits or misses its target.
 
 ### Curving Arrow
 At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
