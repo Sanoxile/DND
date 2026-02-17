@@ -24,7 +24,7 @@ Along with the armor your family sent a scroll with some secrete fighting styles
 - Defense fighting style, Protection fighting style and a shield.
 - Two weapon fighting style, Unarmed fighting style, and Blind fighting style.
 
-These fighting styles you get cannot be 
+These fighting styles you get cannot be affected by martial versatility as they are fighting styles that you learned through your ancestors fighting methods.
 
 ### Battle Hardened
 At level seven you gain the ability to help people in one of the three ways listed below, twice per long rest.
