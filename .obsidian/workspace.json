@@ -35,8 +35,7 @@
               "title": "Banneret"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,8 +197,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea9cc1b6e7380061",
+  "active": "acaacf435d11c250",
   "lastOpenFiles": [
+    "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Knight.md",
@@ -209,7 +209,6 @@
     "Untitled.canvas",
     "2026-02-16.md",
     "Classes/Fighter/Battle Master.md",
-    "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Samurai.md",
     "Classes/Fighter/Rune Knight.md",
     "Classes/Fighter/PSI Warrior.md",
