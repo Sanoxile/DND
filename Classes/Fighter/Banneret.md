@@ -14,9 +14,9 @@ NEW BANNERET
 ### Rallying Cry
 When you choose this archetype at 1st level, you learn how to inspire your allies to fight on past their injuries.
 
-When you use your Second Wind feature, you can choose up to yourself and three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your equal to 1d4, provided that the creature can see or hear you.
+When you use your Second Wind feature, you can choose yourself and up to three creatures within 60 feet of you that are allied with you. Each one regains 1d4 hit points, provided that the creature can see or hear you.
 
-Each person will heal an extra 1d4 of healing once you reach certain levels in the class: 3rd, 5th, 8th, 10th, 
+Each person will heal an extra 1d4 of healing once you reach certain levels in the class: 3rd, 5th, 8th, 10th, 15th 
 
 
 
