@@ -16,7 +16,7 @@ When you choose this archetype at 1st level, you learn how to inspire your allie
 
 When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your equal to 1d4, provided that the creature can see or hear you.
 
-Each person will heal an extra 1d4 of healin
+Each person will heal an extra 1d4 of healing once you reach certain levels in the class
 
 
 
