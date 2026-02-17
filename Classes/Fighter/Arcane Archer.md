@@ -44,7 +44,7 @@ You get one use of this per long rest.
 ### Ever-Ready Shot
 Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
 
-### 
+### Arcane Dagger
 At 17th level, 
 
 
