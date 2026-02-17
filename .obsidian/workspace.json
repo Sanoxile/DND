@@ -35,7 +35,8 @@
               "title": "Banneret"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "acaacf435d11c250",
+  "active": "ea9cc1b6e7380061",
   "lastOpenFiles": [
-    "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Fighter.md",
+    "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Knight.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
