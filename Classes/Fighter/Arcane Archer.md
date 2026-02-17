@@ -35,7 +35,7 @@ At 7th level, you learn how to direct an errant arrow toward a new target. When 
 ### Arrow Swarm
 At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows raining down on all enemies in a 20-foot range from the initial shot. Each enemy within this range will take your bow damage.
 
-You can burn an arcane slot to imbue this arrow with 
+You can burn an arcane slot to imbue this arrow swarm with that specific power. Doing so will apply this damage to all enemies within the region. 
 
 
 
