@@ -22,9 +22,9 @@ At 3rd level, you learn to unleash special magical effects with some of your sho
 
 Once per turn when you fire an arrow from a shortbow or longbow as part of the Attack action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits, unless the option doesn’t involve an attack roll. You get two Arcane Slots to start, and you regain all expended slots of it when you finish a long rest.
 
-You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
+You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 17th level. Each option also improves when you become an 18th-level fighter.
 
-You gain an additional Arcane Slot when you reach certain levels in this class: 7th, 15th, and two at 18th level.
+You gain an additional Arcane Slot when you reach certain levels in this class: 7th, 15th, and two at 17th level.
 
 ### Magic Arrow
 At 5th level, you gain the ability to create magic arrows. This eliminates the need for arrows as you can just create magical arrows to fire. These arrows are magical and can be used to bypass some resistances and immunities. The magic disperses immediately after it hits or misses its target.
@@ -45,7 +45,7 @@ You get one use of this per long rest.
 Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
 
 ### Arcane Dagger
-At 17th level, 
+At 17th level, you gain the ability to
 
 
 
