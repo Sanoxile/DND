@@ -8,6 +8,16 @@
 REWORKING CURRENTLY
 
 
+
+NEW BANNERET
+
+
+
+
+
+
+OLD BANNERET
+
 ### Rallying Cry
 When you choose this archetype at 1st level, you learn how to inspire your allies to fight on past their injuries.
 
