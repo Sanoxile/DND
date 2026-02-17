@@ -33,7 +33,7 @@ At 5th level, you gain the ability to create magic arrows. This eliminates the n
 At 7th level, you learn how to direct an errant arrow toward a new target. When you make an attack roll with a magic arrow and miss, you can use a bonus action to reroll the attack roll against a different target within 60 feet of the original target.
 
 ### Arrow Swarm
-At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows
+At 10th level, using your magic arrows you create and shoots hundred of arrows smiting your enemies down. You fire an arrow within your usual range that splits into hundreds of arrows what the heli
 
 
 
