@@ -20,7 +20,17 @@ Each person will heal an extra 1d4 of healing once you reach certain levels in t
 
 
 ### 
+Starting at 3rd level,
 
+
+### 
+Starting at 5th level,
+
+### 
+Starting at 7th level,
+
+### 
+Starting at 
 
 OLD BANNERET
 
