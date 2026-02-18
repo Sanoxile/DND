@@ -19,6 +19,7 @@ When you use your Second Wind feature, you can choose yourself and up to three c
 Each person will heal an extra 1d4 of healing once you reach certain levels in the class: 3rd, 5th and 8th. Also an extra 2d4 of healing at levels: 10th, 13th, 15th and 3d4 at 17th level.
 
 
+### 
 
 
 OLD BANNERET
