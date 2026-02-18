@@ -33,9 +33,11 @@ Starting at 7th level,
 Starting at 10th level,
 
 ### 
-Starting at 15th level
+Starting at 15th level,
 
 ### 
+Starting at 17th level,
+
 
 OLD BANNERET
 
