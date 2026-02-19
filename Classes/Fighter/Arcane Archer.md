@@ -37,7 +37,7 @@ At 10th level, using your magic arrows you create and shoots hundred of arrows s
 
 You can burn an arcane slot to imbue this arrow swarm with an arcane shot. Doing so will apply that arcane shots power into all the arrows in the arrow swarm. Anything that is hit will have that arcane shots power used on it. If the arcane shots power is explosive or causes AOE damage then the range of the arrow swarm will increase to a 30-foot range.
 
-If you use curving arrow you can cause the arrow swarm to avoid your allies and hit only the enemies with the 20-foot region. If you use an arcane slot option that normally causes an explosion or AOE damage your curving arrow will not be able to save your allies from being hit by the AOE.
+If you use curving arrow you can cause the arrow swarm to avoid your allies and hit only the enemies with the 20-foot region. If you use an arcane slot option that normally causes an explosion or AOE damage your curving arrow will not be able to save your allies from being hit by the AOE. 
 
 You get one use of this per long rest.
 
