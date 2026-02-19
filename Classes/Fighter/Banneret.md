@@ -26,7 +26,7 @@ Starting at 3rd level, as a bonus action you can call out to any creatures that 
 Starting at 5th level, (basically arcane archer but for swords that can also be used on allies).
 
 ### Hero's Presence
-Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. )
+Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
 ### 
 Starting at 10th level,
