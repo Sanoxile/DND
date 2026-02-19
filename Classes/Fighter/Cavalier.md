@@ -16,7 +16,7 @@ Finally, mounting or dismounting a creature costs you only 5 feet of movement, r
 
 ### Unwavering Mark
 
-Starting at 3rd level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.
+Starting at 5th level, you can menace your foes, foiling their attacks and punishing them for harming others. When you hit a creature with a melee weapon attack, you can mark the creature until the end of your next turn. This effect ends early if you are incapacitated or you die, or if someone else marks the creature.
 
 While it is within 5 feet of you, a creature marked by you has disadvantage on any attack roll that doesn't target you.
 
