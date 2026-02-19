@@ -38,7 +38,6 @@ By 15th level, you've learned to absorb the fleeting magic of your echo. When an
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Legion of One
-
 At 17th level, you can use a bonus action to create two echoes with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
 In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.

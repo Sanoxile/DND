@@ -30,7 +30,7 @@ CURRENTLY BEING WORKED ON
 
 ### Spellcasting
 
-When you reach 3rd level, you augment your martial prowess with the ability to cast spells.
+When you reach 1st level, you augment your martial prowess with the ability to cast spells.
 
 ###### Cantrips
 
