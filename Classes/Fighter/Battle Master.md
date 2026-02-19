@@ -34,4 +34,4 @@ Starting at 7th level, if you spend at least 1 minute observing or interacting w
 At 10th level, your superiority dice turn into d10s. At 17th level, they turn into d12s.
 
 ### Relentless
-Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
+Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die. 
