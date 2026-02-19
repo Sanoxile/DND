@@ -39,7 +39,7 @@ You can burn an arcane slot to imbue this arrow swarm with an arcane shot. Doing
 
 If you use curving arrow you can cause the arrow swarm to avoid your allies and hit only the enemies with the 20-foot region. If you use an arcane slot option that normally causes an explosion or AOE damage your curving arrow will not be able to save your allies from being hit by the AOE. 
 
-You get one use of this per long rest.
+You get one use of this per long rest and an additional at 17th level.
 
 ### Ever-Ready Shot
 Starting at 15th level, your magical archery is available whenever battle starts. If you roll initiative and have no uses of Arcane Shot remaining, you regain one use of it.
