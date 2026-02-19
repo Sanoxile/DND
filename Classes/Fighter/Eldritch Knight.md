@@ -65,7 +65,6 @@ Once you have bonded a weapon to yourself, you can't be disarmed of that weapon 
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
 ### War Magic
-
 Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
 
 ### Eldritch Strike
