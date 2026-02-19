@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Champion.md",
+                "file": "Classes/Fighter/Echo Knight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Champion"
+              "title": "Echo Knight"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
+    "Classes/Fighter/Champion.md",
     "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Battle Master.md",
     "Classes/Fighter/Banneret.md",
@@ -203,7 +204,6 @@
     "Classes/Fighter/Maneuvers.md",
     "Classes/Fighter/Eldritch Knight.md",
     "Classes/Fighter/Echo Knight.md",
-    "Classes/Fighter/Champion.md",
     "Easy Git Access.lnk",
     "New shortcut.lnk",
     "New Text Document.txt",
