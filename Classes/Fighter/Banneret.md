@@ -37,8 +37,8 @@ Starting at 10th level, (something to do with action surge)
 ### Call To Battle
 Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
 
-### 
-Starting at 17th level,
+### True Banneret
+Starting at 17th level, (Everyone behind )
 
 
 OLD BANNERET
