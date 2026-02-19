@@ -30,7 +30,6 @@ At 7th level, you learn to fend off strikes directed at you, your mount, or othe
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once), and you regain all expended uses of it when you finish a long rest.
 
 ### Hold the Line
-
 At 10th level, you become a master of locking down your enemies. Creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
 ### Ferocious Charger
