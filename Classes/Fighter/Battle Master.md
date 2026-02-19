@@ -6,7 +6,7 @@ CURRENTLY REWORKING
 
 
 ### Combat Superiority
-When you choose this archetype at 3rd level, you learn [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) that are fueled by special dice called superiority dice.
+When you choose this archetype at 1st level, you learn [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) that are fueled by special dice called superiority dice.
 
 **_Maneuvers._** You learn three [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
