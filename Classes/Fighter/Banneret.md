@@ -38,7 +38,7 @@ Starting at 10th level, (something to do with action surge)
 Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
 
 ### True Banneret
-Starting at 17th level, (Everyone behind )
+Starting at 17th level, (Everyone behind you will gain ac and attack power)
 
 
 OLD BANNERET
