@@ -11,6 +11,9 @@ REWORKING CURRENTLY
 
 NEW BANNERET
 
+### Proficiencies
+**Saving Throws:** Strength, Intelligence
+
 ### Rallying Cry
 When you choose this archetype at 1st level, you learn how to inspire your allies to fight on past their injuries.
 
@@ -29,10 +32,10 @@ Starting at 5th level, (basically arcane archer but for swords that can also be 
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
 ### 
-Starting at 10th level, (som)
+Starting at 10th level, (something to do with action surge)
 
 ### 
-Starting at 15th level,
+Starting at 15th level, ()
 
 ### 
 Starting at 17th level,
