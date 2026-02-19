@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Fighter.md",
+                "file": "Classes/Fighter/Banneret.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Banneret"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
+    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Knight.md",
     "Classes/Fighter/Banneret.md",
-    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
     "Untitled.base",
     "Untitled 1.canvas",
