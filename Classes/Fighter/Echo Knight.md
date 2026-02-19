@@ -21,6 +21,9 @@ At 3rd level, you can heighten your echo's fury. Whenever you take the Attack ac
 
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
+### 
+Starting at 5th level,
+
 ### Echo Avatar
 Starting at 7th level, you can temporarily transfer your consciousness to your echo. As an action, you can see through your echo's eyes and hear through its ears. During this time, you are deafened and blinded. You can sustain this effect for up to 10 minutes, and you can end it at any time (requires no action). While your echo is being used in this way, it can be up to 1,000 feet away from you without being destroyed.
 
@@ -30,13 +33,12 @@ Starting at 10th level, you can make your echo throw itself in front of an attac
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Reclaim Potential
-
 By 15th level, you've learned to absorb the fleeting magic of your echo. When an echo of yours is destroyed by taking damage, you can gain a number of temporary hit points equal to 2d6 + your Constitution modifier, provided you don't already have temporary hit points.
 
 You can use this feature a number of times equal to your Constitution modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 ### Legion of One
 
-At 18th level, you can use a bonus action to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
+At 17th level, you can use a bonus action to create two echos with your Manifest Echo feature, and these echoes can co-exist. If you try to create a third echo, the previous two echoes are destroyed. Anything you can do from one echo's position can be done from the other's instead.
 
 In addition, when you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.
