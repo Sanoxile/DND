@@ -34,8 +34,8 @@ Starting at 7th level, (double proficiency in intimidation and proficiency in pe
 ### 
 Starting at 10th level, (something to do with action surge)
 
-### Call to Battle
-Starting at 15th level, ()
+### Call To Battle
+Starting at 15th level, (Pick a instrument and )
 
 ### 
 Starting at 17th level,
