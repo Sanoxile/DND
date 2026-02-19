@@ -12,7 +12,7 @@ REWORKING CURRENTLY
 NEW BANNERET
 
 ### Proficiencies
-**Saving Throws:** Strength, Intelligence
+**Saving Throws:** Strength, Charisma
 
 ### Rallying Cry
 When you choose this archetype at 1st level, you learn how to inspire your allies to fight on past their injuries.
