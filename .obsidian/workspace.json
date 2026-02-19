@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,12 +213,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea9cc1b6e7380061",
+  "active": "65179f7424417253",
   "lastOpenFiles": [
+    "Classes/Fighter/Knight.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Fighter.md",
-    "Classes/Fighter/Knight.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
     "Untitled.base",
     "Untitled 1.canvas",

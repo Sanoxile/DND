@@ -8,7 +8,7 @@ tags:
 
 
 
-# Rewording required. All work is done for this subclass
+# Rewording required. All work is done for this subclass.
 
 
 ### Proficiencies

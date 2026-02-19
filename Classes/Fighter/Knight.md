@@ -6,7 +6,7 @@ tags:
 **_Knights have undergone some basic training due to their military service. Some knights have even inherited the job from their family members. This is why most knights have plate armor. These knights have been taught to be on the frontlines and hold back the masses. This makes them the perfect frontliner in a party. While rare some knights do leave the military, it is rare. Most adventurers who are knights have finished their career or are looking to find a different way to help the country._**
 
 
-REWORK THE WORDING OF THE ABILTIES
+# Rewording required. All work is done for this subclass.
 
 ### Proficiencies
 **Saving Throws:** Strength, Constitution
