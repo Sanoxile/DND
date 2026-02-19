@@ -29,7 +29,7 @@ Starting at 5th level, (basically arcane archer but for swords that can also be 
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
 ### 
-Starting at 10th level,
+Starting at 10th level, (som)
 
 ### 
 Starting at 15th level,
