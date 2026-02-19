@@ -6,7 +6,6 @@ CURRENTLY REWORKING
 
 
 ### Combat Superiority
-
 When you choose this archetype at 3rd level, you learn [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) that are fueled by special dice called superiority dice.
 
 **_Maneuvers._** You learn three [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) of your choice. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack. You learn two additional maneuvers of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
@@ -18,8 +17,7 @@ When you choose this archetype at 3rd level, you learn [maneuvers](http://dnd5e
 **Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
 
 ### Student of War
-
-At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
+At 3rd level, you gain proficiency with one type of artisan's tools of your choice. (Kind of stupid so maybe rework?)
 
 ### Know Your Enemy
 
