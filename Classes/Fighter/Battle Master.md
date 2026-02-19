@@ -20,27 +20,18 @@ When you choose this archetype at 3rd level, you learn [maneuvers](http://dnd5e
 At 3rd level, you gain proficiency with one type of artisan's tools of your choice. (Kind of stupid so maybe rework?)
 
 ### Know Your Enemy
-
 Starting at 7th level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities compared to your own. The DM tells you if the creature is your equal, superior, or inferior in regard to two of the following characteristics of your choice:
 
 - Strength score
-
 - Dexterity score
-
 - Constitution score
-
 - Armor Class
-
 - Current hit points
-
 - Total class levels, if any
-
 - Fighter class levels, if any
 
 ### Improved Combat Superiority
-
-At 10th level, your superiority dice turn into d10s. At 18th level, they turn into d12s.
+At 10th level, your superiority dice turn into d10s. At 17th level, they turn into d12s.
 
 ### Relentless
-
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
