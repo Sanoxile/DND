@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Cavalier.md",
+                "file": "Classes/Fighter/Champion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cavalier"
+              "title": "Champion"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
-    "Classes/Fighter/Battle Master.md",
     "Classes/Fighter/Cavalier.md",
+    "Classes/Fighter/Battle Master.md",
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Knight.md",
