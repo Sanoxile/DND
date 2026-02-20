@@ -9,9 +9,9 @@ Classes in DND have been a thing since its inception. However, a problem that ha
 
 ## [[Rework of Barbarian]]
 
-### [[Rework of Monk]]
+### [[Rework of Monk]] (1 Subclass that needs to be re)
 
-### [[Rework of Paladin]]
+### [[Rework of Paladin]] 
 
 ### [[Rework of Rogue]]
 

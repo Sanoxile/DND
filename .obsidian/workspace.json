@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "237b65233f747c1d",
+        "id": "8825e91ccf0e7079",
         "type": "tabs",
         "children": [
           {
-            "id": "acaacf435d11c250",
+            "id": "1beba7339a9bfe08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,8 +184,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "acaacf435d11c250",
+  "active": "1beba7339a9bfe08",
   "lastOpenFiles": [
+    "Rework of Barbarian.md",
+    "Classes/Rework of Classes.md",
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Champion.md",
     "Classes/Fighter/Echo Knight.md",
@@ -208,7 +210,6 @@
     "New shortcut.lnk",
     "New Text Document.txt",
     "Spells/Untitled.md",
-    "Classes/Rework of Classes.md",
     "Spells/Conjure Flames.md",
     "Spells/Magic Lantern.md",
     "DND/Spells/Fighter Spells.md",
