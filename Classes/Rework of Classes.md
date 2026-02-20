@@ -21,7 +21,7 @@ Classes in DND have been a thing since its inception. However, a problem that ha
 
 ### [[Rework of Bard]]
 
-### [[Rework of Cleric]]
+### [[Rework of Cleric]] (Cleric needs to be reworked because meteor swarm transmuted to lighting)
 
 ### [[Rework of Druid]]
 
