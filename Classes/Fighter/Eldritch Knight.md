@@ -29,7 +29,6 @@ CURRENTLY BEING WORKED ON
 | 20th                         | 3              | 13           | 4                           | 3   | 3   | 1   |     |     |     |     |
 
 ### Spellcasting
-
 When you reach 1st level, you augment your martial prowess with the ability to cast spells.
 
 ###### Cantrips
