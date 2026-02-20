@@ -8,8 +8,7 @@ CURRENTLY BEING WORKED ON
 
 
 ### Psionic Power
-
-At 3rd level, you harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
+At 1st level, you harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.
 
 Some of your powers expend the Psionic Energy die they use, as specified in a power's description, and you can't use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can't do so again until you finish a short or long rest.
 
@@ -23,8 +22,13 @@ _**Psionic Strike.**_ You can propel your weapons with psionic force. Once on e
 
 _**Telekinetic Movement.**_ You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
 
-### Telekinetic Adept
+### 
+Starting at 3rd level,
 
+### 
+Starting at 5th level,
+
+### Telekinetic Adept
 By the 7th level, You have mastered new ways to use your telekinetic abilities, detailed below.
 
 _**Psi-Powered Leap.**_ As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can't do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again.
@@ -43,6 +47,6 @@ Once you take this bonus action, you can't do so again until you finish a long r
 
 ### Telekinetic Master
 
-By 18th level, your ability to move creatures and objects with your mind is matched by few. You can cast the [Telekinesis](http://dnd5e.wikidot.com/spell:telekinesis) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
+By 17th level, your ability to move creatures and objects with your mind is matched by few. You can cast the [Telekinesis](http://dnd5e.wikidot.com/spell:telekinesis) spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.
 
 Once you cast the spell with this feature, you can't do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again.
