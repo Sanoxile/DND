@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/PSI Warrior.md",
+                "file": "Classes/Fighter/Arcane Archer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PSI Warrior"
+              "title": "Arcane Archer"
             }
           }
         ]
@@ -186,10 +186,10 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
+    "Classes/Fighter/PSI Warrior.md",
     "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Eldritch Knight.md",
     "Classes/Fighter/Echo Knight.md",
-    "Classes/Fighter/PSI Warrior.md",
     "Classes/Fighter/Champion.md",
     "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Battle Master.md",
