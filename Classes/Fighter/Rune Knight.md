@@ -20,11 +20,13 @@ Starting at 3rd level, you can use magic runes to enhance your gear. You learn t
 |10th|4|
 |15th|5|
 
-| Fighter Level |     |
-| ------------- | --- |
-|               |     |
-|               |     |
-|               |     |
+| **Runes Known**   |                 |
+| ------------- | --------------- |
+| **Fighter Level** | **Number of Runes** |
+| 3rd           | 2               |
+| 7th           | 3               |
+| 10th          | 4               |
+| 15th          | 5               |
 
 
 Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else you can wear or hold in a hand. Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes at a time.
