@@ -64,17 +64,17 @@ Once you have bonded a weapon to yourself, you can't be disarmed of that weapon 
 
 You can have up to two bonded weapons, but can summon only one at a time with your bonus action. If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
+### 
+
+
 ### War Magic
 Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
 
 ### Eldritch Strike
-
 At 10th level, you learn how to make your weapon strikes undercut a creature's resistance to your spells. When you hit a creature with a weapon attack, that creature has disadvantage on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 ### Arcane Charge
-
 At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied space you can see when you use your Action Surge. You can teleport before or after the additional action.
 
 ### Improved War Magic
-
-Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
+Starting at 17th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
