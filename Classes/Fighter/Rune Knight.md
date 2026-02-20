@@ -12,14 +12,6 @@ When you choose this archetype at 1st level, you gain proficiency with smith’s
 
 Starting at 3rd level, you can use magic runes to enhance your gear. You learn two runes of your choice, from among the runes described below, and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.
 
-|Runes Known||
-|---|---|
-|Fighter Level|Number of Runes|
-|3rd|2|
-|7th|3|
-|10th|4|
-|15th|5|
-
 | **Runes Known**   |                 |
 | ------------- | --------------- |
 | **Fighter Level** | **Number of Runes** |
