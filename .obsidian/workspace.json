@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Battle Master.md",
+                "file": "Classes/Fighter/Cavalier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battle Master"
+              "title": "Cavalier"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
-    "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Battle Master.md",
+    "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Rune Knight.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
