@@ -6,8 +6,7 @@ CURRENTLY BEING WORKED ON
 
 
 ### Bonus Proficiencies
-
-When you choose this archetype at 3rd level, you gain proficiency with smith’s tools, and you learn to speak, read, and write Giant.
+When you choose this archetype at 1st level, you gain proficiency with smith’s tools, and you learn to speak, read, and write Giant.
 
 ### Rune Carver
 
@@ -20,6 +19,13 @@ Starting at 3rd level, you can use magic runes to enhance your gear. You learn t
 |7th|3|
 |10th|4|
 |15th|5|
+
+| Fighter Level |     |
+| ------------- | --- |
+|               |     |
+|               |     |
+|               |     |
+
 
 Whenever you finish a long rest, you can touch a number of objects equal to the number of runes you know, and you inscribe a different rune onto each of the objects. To be eligible, an object must be a weapon, a suit of armor, a shield, a piece of jewelry, or something else you can wear or hold in a hand. Your rune remains on an object until you finish a long rest, and an object can bear only one of your runes at a time.
 
