@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8825e91ccf0e7079",
+        "id": "61724a5cf425a80a",
         "type": "tabs",
         "children": [
           {
-            "id": "1beba7339a9bfe08",
+            "id": "bb4d44d381d05790",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "1beba7339a9bfe08",
+  "active": "00f6d49b2a473db7",
   "lastOpenFiles": [
-    "Rework of Barbarian.md",
+    "Rework of Monk.md",
     "Classes/Rework of Classes.md",
+    "Rework of Barbarian.md",
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Champion.md",
     "Classes/Fighter/Echo Knight.md",
