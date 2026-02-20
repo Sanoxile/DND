@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Eldritch Knight.md",
+                "file": "Classes/Fighter/PSI Warrior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eldritch Knight"
+              "title": "PSI Warrior"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "acaacf435d11c250",
   "lastOpenFiles": [
-    "Classes/Fighter/Echo Knight.md",
+    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Eldritch Knight.md",
+    "Classes/Fighter/Echo Knight.md",
     "Classes/Fighter/PSI Warrior.md",
     "Classes/Fighter/Champion.md",
     "Classes/Fighter/Cavalier.md",
@@ -195,7 +196,6 @@
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Rune Knight.md",
     "Classes/Fighter/Rework of Fighter Subclasses.md",
-    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/Knight.md",
     "Untitled.base",

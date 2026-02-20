@@ -2,7 +2,7 @@
 
 
 
-CURRENTLY BEING WORKED ON
+CURRENTLY BEING WORKED ON (Rework spell parts of this class)
 
 
 
