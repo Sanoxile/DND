@@ -37,4 +37,4 @@ At 10th level, your superiority dice turn into d10s. At 17th level, they turn in
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
 ### Sun Tzu the Art of War
-Starting at 17th level, 
+Starting at 17th level, you gain a special m
