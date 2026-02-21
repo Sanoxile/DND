@@ -37,4 +37,4 @@ At 10th level, your superiority dice turn into d10s. At 17th level, they turn in
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die.
 
 ### Sun Tzu the Art of War
-Starting at 17th level, you gain a special maneuver called distracted strike. When preforming distracted strike you dodge to the side an swing around back, and strike at their back. Doing so will 
+Starting at 17th level, you gain a special maneuver called distracted strike. When you preform 
