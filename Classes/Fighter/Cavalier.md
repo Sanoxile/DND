@@ -6,7 +6,7 @@ CURRENTLY REWORKING (Kinda based already)
 
 
 ### Bonus Proficiency
-When you choose this archetype at 1st level, you gain proficiency in one of the following skills of your choice: Animal Handling, History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. (Probably needs some buffs)
+When you choose this archetype at 1st level, you gain proficiency in Animal Handling and one more of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. (Probably needs some buffs)
 ### Born to the Saddle
 Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
 
