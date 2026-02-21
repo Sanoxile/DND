@@ -35,3 +35,6 @@ At 10th level, your superiority dice turn into d10s. At 17th level, they turn in
 
 ### Relentless
 Starting at 15th level, when you roll initiative and have no superiority dice remaining, you regain 1 superiority die. (kind of a lame last ability maybe add a level 17 one)
+
+### 
+Starting at 17th level, 
