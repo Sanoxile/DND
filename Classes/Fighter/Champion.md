@@ -8,7 +8,7 @@ CURRENTLY BEING REWORKED
 ### Improved Critical
 Beginning when you choose this archetype at 1st level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
-### 
+### Furious Strike
 Starting at 3rd level,
 
 ### Remarkable Athlete
