@@ -2,7 +2,7 @@
 
 
 
-CURRENTLY BEING REWORKED
+Might need to be reworded (Furious st)
 
 
 ### Improved Critical
