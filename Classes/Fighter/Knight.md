@@ -9,7 +9,7 @@ tags:
 # Rewording required. All work is done for this subclass.
 
 ### Proficiencies
-**Saving Throws:** Strength, Constitution
+**Saving Throws:** Strength, Constitution.
 
 ### War cry
 You scream out a war cry enraging all nearby enemies within 30 feet of you. All enemies must succeed on a DC 10 + your strength modifier + proficiency bonus or they will be given disadvantage when attacking anyone besides you.
