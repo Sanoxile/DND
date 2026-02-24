@@ -2,7 +2,7 @@
 
 
 
-CURRENTLY REWORKING
+## May need some rewording (Sun Tzu the art of war)
 
 
 ### Proficiencies
