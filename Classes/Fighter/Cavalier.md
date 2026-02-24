@@ -1,12 +1,11 @@
 **_The archetypal cavalier excels at mounted combat. Usually born among the nobility and raised at court, a cavalier is equally at home leading a cavalry charge or exchanging repartee at a state dinner. Cavaliers also learn how to guard those in their charge from harm, often serving as the protectors of their superiors and of the weak. Compelled to right wrongs or earn prestige, many of these fighters leave their lives of comfort to embark on glorious adventure._**
 
 
-
 ### Proficiencies
 **Saving Throws:** Choose 2 of Strength, Dexterity and Constitution.
 
 ### Bonus Proficiency
-When you choose this archetype at 1st level, you gain proficiency in Animal Handling and one more of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. (Probably needs some buffs)
+When you choose this archetype at 1st level, you gain proficiency in Animal Handling and one more of the following skills of your choice: Expertise in Animal Handling, or proficiency in History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. 
 ### Born to the Saddle
 Starting at 3rd level, your mastery as a rider becomes apparent. You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
 
