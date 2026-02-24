@@ -11,13 +11,13 @@ Beginning when you choose this archetype at 1st level, your weapon attacks score
 ### 
 Starting at 3rd level,
 
-### 
-Starting at 5th level,
-
 ### Remarkable Athlete
-Starting at 7th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
+Starting at 5th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
 
 In addition, when you make a running long jump, the distance you can cover increases by a number of feet equal to your Strength modifier.
+
+### 
+Starting at 7th level, 
 
 ### Additional Fighting Style
 At 10th level, you can choose a second option from the Fighting Style class feature.
