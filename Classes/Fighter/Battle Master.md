@@ -7,6 +7,7 @@
 
 ### Proficiencies
 **Saving Throws:** Strength, Constitution
+
 ### Combat Superiority
 When you choose this archetype at 1st level, you learn [maneuvers](http://dnd5e.wikidot.com/fighter:battle-master:maneuvers) that are fueled by special dice called superiority dice.
 

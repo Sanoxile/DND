@@ -2,8 +2,8 @@
 
 
 
-CURRENTLY REWORKING (Kinda based already)
-
+### Proficiencies
+**Saving Throws** Choose 2
 
 ### Bonus Proficiency
 When you choose this archetype at 1st level, you gain proficiency in Animal Handling and one more of the following skills of your choice: History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. (Probably needs some buffs)
