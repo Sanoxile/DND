@@ -9,7 +9,7 @@ CURRENTLY BEING REWORKED
 Beginning when you choose this archetype at 1st level, your weapon attacks score a critical hit on a roll of 19 or 20.
 
 ### Furious Strike
-Starting at 3rd level, you gain the ability to furiously strike an enemy. Your strike is so powerful the ground itself is thrown up in the air.
+Starting at 3rd level, you gain the ability to furiously strike an enemy. Your strike is so powerful the ground itself is thrown up in the air hitting everyone within a 20-foot cone of the strike.
 
 ### Remarkable Athlete
 Starting at 5th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
