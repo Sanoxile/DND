@@ -11,7 +11,7 @@ Beginning when you choose this archetype at 1st level, your weapon attacks score
 ### Furious Strike
 Starting at 3rd level, you gain the ability to furiously strike an enemy. Your strike is so powerful the ground itself is thrown up in the air hitting everyone within a 20-foot cone of the strike.
 
-Everyone hit by this must make a   take 2d10 bludgeoning damage.
+Everyone hit by this must make a dex save of 10 + Strength + Your Proficiency or take 2d10 bludgeoning damage on a failed save you take half as much.
 
 
 
