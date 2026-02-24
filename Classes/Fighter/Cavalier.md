@@ -5,7 +5,7 @@
 **Saving Throws:** Choose 2 of Strength, Dexterity and Constitution.
 
 ### Bonus Proficiency
-When you choose this archetype at 1st level, you gain expertise in Animal Handling or proficiency in animal handling 
+When you choose this archetype at 1st level, you gain expertise in Animal Handling or proficiency in Animal Handling and gain proficiency in one of the following skills of your choice: History, Insight, Performance, or Persuasion. Alterne
 
 proficiency in Animal Handling and one more of the following skills of your choice: Expertise in Animal Handling, or proficiency in History, Insight, Performance, or Persuasion. Alternatively, you learn one language of your choice. 
 ### Born to the Saddle
