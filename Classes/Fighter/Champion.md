@@ -13,7 +13,7 @@ Starting at 3rd level, you gain the ability to furiously strike an enemy. Your s
 
 Everyone hit by this must make a dex save of 10 + Strength + Your Proficiency or take 2d10 bludgeoning damage on a failed save you take half as much.
 
-You get one use of this per long rest and a second at 10th level.
+You get one use of this per long rest and a second use at 10th level.
 
 ### Remarkable Athlete
 Starting at 5th level, you can add half your proficiency bonus (rounded up) to any Strength, Dexterity, or Constitution check you make that doesn't already use your proficiency bonus.
