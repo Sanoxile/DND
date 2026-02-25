@@ -27,7 +27,7 @@ Starting at 3rd level, as a bonus action you can call out to any creatures that 
 ### Empower Strike
 Starting at 5th level, (basically arcane archer but for swords that can also be used on allies).
 
-DC 10 + Strength + Proficiency
+DC 10 + Charisma + Proficiency
 
 **_Whirlwind._** 
 
