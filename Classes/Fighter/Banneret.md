@@ -30,7 +30,7 @@ Starting at 5th level, you can inspire yourself and other people to push beyond 
 ### Hero's Presence
 Starting at 7th level, you have become renown across the land as a hero. Your enemies fear you shake in your wake. You gain expertise in intimidation and proficiency in persuasion.
 
-
+When you start a fight each opponent succeed on a DC 8 + proficiency bonus (x2) + charisma or be frightened
 
 (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
