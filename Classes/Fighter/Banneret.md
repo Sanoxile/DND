@@ -29,7 +29,7 @@ Starting at 5th level, (basically arcane archer but for swords that can also be 
 
 DC 10 + Charisma + Proficiency
 
-**_Whirlwind._** 
+**_Whirlwind._** You prepare to 
 
 **Flurry of Strikes.**
 
