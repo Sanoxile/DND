@@ -30,9 +30,7 @@ Starting at 5th level, you can inspire yourself and other people to push beyond 
 ### Hero's Presence
 Starting at 7th level, you have become renown across the land as a hero. Your enemies fear you shake in your wake. You gain expertise in intimidation and proficiency in persuasion.
 
-When you start a fight each opponent succeed on a DC 8 + proficiency bonus (x2) + charisma or be frightened
-
-(double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
+When you start a fight each opponent succeed on a wisdom save of DC 8 + proficiency bonus (x2) + charisma or be frightened until they succeed on this roll. Additionally if the opponent who is freighted is an orc or bandit they will just run away and no longer be a part of combat.
 
 ### 
 Starting at 10th level, (something to do with action surge)
@@ -51,29 +49,3 @@ If an option requires a saving throw, your Empower Strike save DC equals 8 + you
 **Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
 
 **Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Constitution Saving throw or everyone attacking the enemy will have advantage on hits until one turn has passed.
-
-
-OLD BANNERET
-
-### Rallying Cry
-When you choose this archetype at 3rd level, you learn how to inspire your allies to fight on past their injuries.
-
-When you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each one regains hit points equal to your fighter level, provided that the creature can see or hear you.
-
-### Royal Envoy
-
-Knights of high standing are expected to conduct themselves with grace.
-
-At 7th level, you gain proficiency in the Persuasion skill. If you are already proficient in it, you gain proficiency in one of the following skills of your choice: Animal Handling, Insight, Intimidation, or Performance.
-
-Your proficiency bonus is doubled for any ability check you make that uses Persuasion. You receive this benefit regardless of the skill proficiency you gain from this feature.
-
-### Inspiring Surge
-
-Starting at 10th level, when you use your Action Surge feature, you can choose one creature within 60 feet of you that is allied with you. That creature can make one melee or ranged weapon attack with its reaction, provided that it can see or hear you.
-
-Starting at 18th level, you can choose two allies within 60 feet of you, rather than one.
-
-### Bulwark
-
-Beginning at 15th level, you can extend the benefit of your Indomitable feature to an ally. When you decide to use Indomitable to reroll an Intelligence, a Wisdom, or a Charisma saving throw and you aren't incapacitated, you can choose one ally within 60 feet of you that also failed its saving throw against the same effect. If that creature can see or hear you, it can reroll its saving throw and must use the new roll.
