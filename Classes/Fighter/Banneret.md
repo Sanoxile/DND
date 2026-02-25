@@ -31,7 +31,7 @@ Starting at 5th level, (basically arcane archer but for swords that can also be 
 
 **Flurry of Strikes.**
 
-**Severing Strike.** Preform either a ranged or melee strike 
+**Severing Strike.** You focus a little harder finding a weak spot on your enemy and striking it.
 
 ### Hero's Presence
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
