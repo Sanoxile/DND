@@ -199,11 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "00f6d49b2a473db7",
+  "active": "bb4d44d381d05790",
   "lastOpenFiles": [
-    "Classes/Fighter/Champion.md",
-    "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Arcane Archer.md",
+    "Classes/Fighter/Banneret.md",
+    "Classes/Fighter/Champion.md",
     "Classes/Fighter/Echo Knight.md",
     "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Battle Master.md",
