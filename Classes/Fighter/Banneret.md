@@ -31,7 +31,7 @@ DC 10 + Charisma + Proficiency
 
 **_Whirlwind._** You prepare to preform a spin attack slashing an bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your normal weapons damage (weapon damage, stealth strikes, etc.). If they succeed they take no damage.
 
-**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes.
+**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes. Because you quickly prepare these you cannot
 
 **Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Constitution Saving throw or everyone attacking the enemy will have advantage on hits until one turn has passed.
 
