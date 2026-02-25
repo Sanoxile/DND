@@ -25,10 +25,12 @@ Each person will heal an extra 1d4 of healing once you reach certain levels in t
 Starting at 3rd level, as a bonus action you can call out to any creatures that can hear or see you to assemble into formation. Doing so will allow them to travel an extra 30-feet on their turn. You can use this ability twice per short rest.
 
 ### Empower Strike
-Starting at 5th level, you can inspire yourself and other people to push beyond their limits.
+Starting at 5th level, you can inspire yourself and other people to push beyond their limits. Four times per long rest you can you can empower you or your allies strikes (see the "Empower Strike Options" below).
 
 ### Hero's Presence
-Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
+Starting at 7th level, 
+
+(double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
 ### 
 Starting at 10th level, (something to do with action surge)
