@@ -29,6 +29,8 @@ Starting at 5th level, (basically arcane archer but for swords that can also be 
 
 **_Whirlwind._** 
 
+**Flurry of Strikes. **
+
 ****
 
 ### Hero's Presence
