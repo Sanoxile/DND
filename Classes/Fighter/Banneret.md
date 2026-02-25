@@ -35,7 +35,7 @@ When you start a fight each opponent succeed on a wisdom save of DC 8 + proficie
 ### 
 Starting at 10th level, (something to do with action surge)
 
-### Call To Battle
+### Call to Battle
 Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
 
 ### True Banneret
@@ -44,7 +44,7 @@ Starting at 17th level, (Everyone behind you will gain ac and attack power)
 ## Empower Strike Options
 If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
 
-**_Whirlwind._** You prepare to preform a spin attack slashing an bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your normal weapons damage (weapon damage, stealth strikes, etc.). If they succeed they take no damage.
+**_Whirlwind._** You use weapon with the versatile property to preform a spin attack slashing or bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your attack action damage. If they succeed they take no damage.
 
 **Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
 
