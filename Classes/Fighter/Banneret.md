@@ -33,7 +33,7 @@ DC 10 + Charisma + Proficiency
 
 **Flurry of Strikes.**
 
-**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). But additionally they must make a strength saving throw of 
+**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Strength Saving throw or everyone attacking the enemy will have advantage on hits until one turn has passed.
 
 ### Hero's Presence
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
