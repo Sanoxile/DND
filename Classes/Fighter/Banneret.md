@@ -27,11 +27,13 @@ Starting at 3rd level, as a bonus action you can call out to any creatures that 
 ### Empower Strike
 Starting at 5th level, (basically arcane archer but for swords that can also be used on allies).
 
+DC 10 + Strength + Proficiency
+
 **_Whirlwind._** 
 
 **Flurry of Strikes.**
 
-**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). But additionally they must make a strength save of DC 
+**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). But additionally they must make a strength saving throw of 
 
 ### Hero's Presence
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
