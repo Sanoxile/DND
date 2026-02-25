@@ -28,7 +28,7 @@ Starting at 3rd level, as a bonus action you can call out to any creatures that 
 Starting at 5th level, you can inspire yourself and other people to push beyond their limits. Four times per long rest you can you can empower you or your allies strikes (see the "Empower Strike Options" below).
 
 ### Hero's Presence
-Starting at 7th level, you have become renown across the land as a hero. Your enemies fear you.
+Starting at 7th level, you have become renown across the land as a hero. Your enemies fear you shake in your wake. You gain expertise in intimidation and proficiency in persuasion.
 
 (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
