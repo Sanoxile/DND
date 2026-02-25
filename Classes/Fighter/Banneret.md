@@ -27,6 +27,8 @@ Starting at 3rd level, as a bonus action you can call out to any creatures that 
 ### Empower Strike
 Starting at 5th level, (basically arcane archer but for swords that can also be used on allies).
 
+**_Whirlwind._**  
+
 ### Hero's Presence
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
 
