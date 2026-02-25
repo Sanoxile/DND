@@ -25,15 +25,7 @@ Each person will heal an extra 1d4 of healing once you reach certain levels in t
 Starting at 3rd level, as a bonus action you can call out to any creatures that can hear or see you to assemble into formation. Doing so will allow them to travel an extra 30-feet on their turn. You can use this ability twice per short rest.
 
 ### Empower Strike
-Starting at 5th level, (basically arcane archer but for swords that can also be used on allies).
-
-If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
-
-**_Whirlwind._** You prepare to preform a spin attack slashing an bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your normal weapons damage (weapon damage, stealth strikes, etc.). If they succeed they take no damage.
-
-**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
-
-**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Constitution Saving throw or everyone attacking the enemy will have advantage on hits until one turn has passed.
+Starting at 5th level, 
 
 ### Hero's Presence
 Starting at 7th level, (double proficiency in intimidation and proficiency in persuasion. Something to do with the frightened condition)
@@ -46,6 +38,15 @@ Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be u
 
 ### True Banneret
 Starting at 17th level, (Everyone behind you will gain ac and attack power)
+
+## Empower Strike Options
+If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
+
+**_Whirlwind._** You prepare to preform a spin attack slashing an bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your normal weapons damage (weapon damage, stealth strikes, etc.). If they succeed they take no damage.
+
+**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or four ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
+
+**Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Constitution Saving throw or everyone attacking the enemy will have advantage on hits until one turn has passed.
 
 
 OLD BANNERET
