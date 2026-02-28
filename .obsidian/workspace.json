@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "01e50d03c132638d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "bb4d44d381d05790",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Arcane Archer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "177a3445c6c25eeb",
+  "active": "01e50d03c132638d",
   "lastOpenFiles": [
     "Classes/Fighter/Banneret.md",
     "Classes/Fighter/Arcane Archer.md",
