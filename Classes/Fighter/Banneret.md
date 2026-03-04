@@ -42,7 +42,7 @@ Objects: Bagpipes, Battle Horn, War Banner, Tuba, Trumpet, Any Sword, The Worlds
 These effects will be applied once per battle to every creature of your choice within sight and hearing range. Leaving then entering the same battle will not refresh these effects until a long rest is taken.
 
 ### True Banneret
-Starting at 17th level, everyone standing behind you will feel inspired and fight much more valiantly. 
+Starting at 17th level, everyone standing behind you will feel inspired and fight much more valiantly. Everyone behind you will receive 2+ to their AC and 2+ to hit.
 
 ## Empower Strike Options
 If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
