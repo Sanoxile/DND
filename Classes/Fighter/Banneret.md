@@ -33,7 +33,13 @@ When you start a fight each opponent succeed on a wisdom save of DC 8 + proficie
 Starting at 10th level, choose up to two creatures and allow them to perform one extra attack on their attack action when you use action surge.
 
 ### Call to Battle
-Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
+Starting at 15th level, you gain the ability to channel moral in your party by using an instrument or object.
+
+
+
+(Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
+
+
 
 ### True Banneret
 Starting at 17th level, (Everyone behind you will gain ac and attack power)
