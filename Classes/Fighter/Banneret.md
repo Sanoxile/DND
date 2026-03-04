@@ -29,8 +29,8 @@ Starting at 7th level, you have become renown across the land as a hero. Your en
 
 When you start a fight each opponent succeed on a wisdom save of DC 8 + proficiency bonus (x2) + charisma or be frightened until they succeed on this roll. Additionally if the opponent who is freighted is an orc or bandit they will just run away and no longer be a part of combat.
 
-### 
-Starting at 10th level, (something to do with action surge)
+### Action Tsunami
+Starting at 10th level, choose up to two creatures and allow them to perform one extra attack on their attack 
 
 ### Call to Battle
 Starting at 15th level, (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
