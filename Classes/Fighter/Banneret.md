@@ -8,9 +8,6 @@
 REWORKING CURRENTLY
 
 
-
-NEW BANNERET
-
 ### Proficiencies
 **Saving Throws:** Strength, Charisma.
 
