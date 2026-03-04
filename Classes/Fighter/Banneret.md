@@ -37,6 +37,8 @@ Starting at 15th level, you gain the ability to channel moral in your party by u
 
 Abilities: 
 
+Objects: Bagpipes, Battle Horn, War Banner, Tuba, Trumpet, Any Sword, 
+
 (Pick a instrument and use them to apply buffs. Can be used one per battle. Before or after.)
 
 
