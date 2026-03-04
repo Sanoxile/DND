@@ -39,12 +39,10 @@ Abilities: Give 10 + fighter level temp hit points, gain 2+ to AC, gain 2+ to de
 
 Objects: Bagpipes, Battle Horn, War Banner, Tuba, Trumpet, Any Sword, The Worlds Smallest Violin, or a Ranged Weapon.
 
-These effects will be applied once per battle. Entering and 
-
-
+These effects will be applied once per battle to every creature of your choice within sight and hearing range. Leaving then entering the same battle will not refresh these effects until a long rest is taken.
 
 ### True Banneret
-Starting at 17th level, (Everyone behind you will gain ac and attack power)
+Starting at 17th level, everyone standing behind you will feel inspired and fight much more valiantly. 
 
 ## Empower Strike Options
 If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
