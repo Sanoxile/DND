@@ -47,8 +47,8 @@ Starting at 17th level, everyone standing behind you will feel inspired and figh
 ## Empower Strike Options
 If an option requires a saving throw, your Empower Strike save DC equals 8 + your proficiency bonus + your charisma modifier.
 
-**_Whirlwind._** You use weapon with the versatile property to preform a spin attack slashing or bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your attack action damage. If they succeed they take no damage.
+**_Whirlwind._** You use weapon that doesn't have the lightweight property to preform a spin attack slashing or bludgeoning everything within 5 feet of you. Every creature hit by this will have to succeed on a Dexterity Saving throw or take your attack action damage. If they succeed they take no damage.
 
-**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking four melee strikes or two ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
+**Flurry of Strikes.** You quickly prepare a flurry of strikes either taking two melee strikes or two ranged strikes. Because you quickly prepare these you cannot stealth strikes or anything that would normally buff these strikes. Each strike you use also has disadvantage and can be used on multiple different enemies.
 
 **Severing Strike.** You focus a little harder on attack, finding a weak spot on your enemy and striking it. The creature hit by this will suffer what your attack normally does (weapon damage, stealth strikes, etc.). Additionally they must succeed a Constitution Saving throw or everyone attacking the enemy will have advantage for the next two attacks made against it.
