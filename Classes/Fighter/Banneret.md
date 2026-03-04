@@ -35,7 +35,7 @@ Starting at 10th level, choose up to two creatures and allow them to perform one
 ### Call to Battle
 Starting at 15th level, you gain the ability to channel moral in your party by using an instrument or object. Below are the objects and abilities that you can you can use together.
 
-Abilities: Give 10 + fighter level temp hit points, gain 2+ to AC, gain 2+ to dexterity saving throws, gain 1+ to hit for spells and attacks,
+Abilities: Give 10 + fighter level temp hit points, gain 2+ to AC, gain 2+ to dexterity saving throws (two uses), gain 3+ to hit for spells and attacks (two uses), 
 
 Objects: Bagpipes, Battle Horn, War Banner, Tuba, Trumpet, Any Sword, The Worlds Smallest Violin, or a Ranged Weapon.
 
