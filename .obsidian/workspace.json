@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Fighter/Arcane Archer.md",
+                "file": "Classes/Fighter/Fighter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcane Archer"
+              "title": "Fighter"
             }
           },
           {
@@ -34,21 +34,8 @@
               "icon": "lucide-file",
               "title": "Champion"
             }
-          },
-          {
-            "id": "5b2bd3781280c085",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,16 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b2bd3781280c085",
+  "active": "177a3445c6c25eeb",
   "lastOpenFiles": [
-    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Champion.md",
+    "Classes/Fighter/Arcane Archer.md",
+    "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Eldritch Knight.md",
     "Classes/Fighter/Echo Knight.md",
     "Classes/Fighter/Cavalier.md",
     "Classes/Fighter/Battle Master.md",
     "Classes/Fighter/Banneret.md",
-    "Classes/Fighter/Arcane Archer.md",
     "Classes/Fighter/PSI Warrior.md",
     "Classes/Fighter/Samurai.md",
     "Classes/Fighter/Rune Knight.md",
