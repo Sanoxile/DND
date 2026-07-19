@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Champion"
             }
+          },
+          {
+            "id": "5b2bd3781280c085",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb4d44d381d05790",
+  "active": "5b2bd3781280c085",
   "lastOpenFiles": [
     "Classes/Fighter/Fighter.md",
     "Classes/Fighter/Champion.md",
