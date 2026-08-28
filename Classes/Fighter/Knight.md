@@ -19,7 +19,7 @@ If the enemy is immune to being charmed they will be completely unaffected by th
 ### Family Blessings
 At level three your family has deemed you worthy to accept your family heirloom. A set of plate armor that has been just freshly repurposed. This set of armor will serve you well.
 
-Along with the armor your family sent a scroll with some secrete fighting styles. Choose one of the two options below...
+Along with the armor your family sent a scroll with some secret fighting styles. Choose one of the two options below...
 
 - Defense fighting style, Protection fighting style and a shield.
 - Two weapon fighting style, Unarmed fighting style, and Blind fighting style.
