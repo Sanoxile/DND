@@ -36,7 +36,6 @@ At level seven you gain the ability to help people in one of the three ways list
 ### Defensive Empowerment
 At level ten you gain the ability to empower your allies to use defensive maneuvers. Anyone within 30-feet of you will receive +2 to their AC for one round after using action surge.
 
-
 ### Power Through
 At level fifteen you unlock the ability to power through once per long rest. Once knocked out you can choose to fight like normal for 1 turn as if you weren't knocked out. After this turn you will go back to your previous state.
 
